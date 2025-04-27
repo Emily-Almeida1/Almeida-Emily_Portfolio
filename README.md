@@ -8,6 +8,7 @@ With skills in critical thinking, problem solving, team work, and bilingualism, 
 
 My comprehensive skill set, unwavering commitment to professional excellence, and genuine passion for continuous learning and innovation position me as a valuable asset. In my spare time, I enjoy exploring literature and weightlifting at the gym.
 
+You can find me on [LinkedIn Hyperlink](https://www.linkedin.com/in/emily-almeida-425635360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) or [Medium](https://medium.com/@samanthaalmeida753).
 
 ### Education 
 BSc in Political Science and Spanish 
