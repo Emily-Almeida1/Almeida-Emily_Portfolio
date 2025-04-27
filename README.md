@@ -1,5 +1,5 @@
 # Emily Almeida
-Contact Info: [fill in]
+
 ### About Me 
 
 Hello! I am an experienced Political Scientist and Political Science professional with over 2 years of proven expertise in politics. 
@@ -24,8 +24,9 @@ Loyola University, MD
    
 ##### -How did you come up with this project? What problem did you set out to solve, and why was it a problem that needed to be solved?
 
-I decided to develop a personality test application inspired by the childhood figures I grew up with: Disney Princesses. I selected three of my favorite princesses and created a series of questions based on their traits—such as their favorite colors, professions, hobbies, and core values.
+I decided to develop a personality test application inspired by the childhood figures I grew up with: Disney Princesses. I selected three of my favorite princesses and created a series of questions based on their traits, such as their favorite colors, professions, hobbies, and core values.
 One of the main challenges I aimed to address was the level of accuracy and concentration required for the project to function correctly. I used Python 3 on the JDoodle platform and had to ensure that the code matched each answer precisely. Even a small typo or inconsistency in the questions or answers could result in incorrect personality matches. Solving this problem was essential to ensure the reliability of the test results.
+
 ##### -Tools I used:
 
 JDoodle (Python 3)
