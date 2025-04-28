@@ -54,7 +54,9 @@ My goal was to create a personality test that could identify which Disney Prince
 
  - The Emily Business “Exclusive Handbags” is an Excel worksheet that contains 15 different handbags or purses and their characteristics. It has financial information such as the original cost, the selling cost, and the estimated profit. It also has expected loans that the business would take, and how much I would have to pay back at different interest rates and years of repayment. 
 
- - [insert project 2 screenshot here]
+![Emily Business](portfolio img/Emily Business.png)
+![Excel Loan Tracker](portfolio img/Loan Analysis.png)
+
    
 ##### -How did you come up with this project? What problem did you set out to solve, and why was it a problem that needed to be solved?
 
@@ -82,7 +84,18 @@ If I were to expand this project, I would implement more advanced features, such
 
  - This project involved building a customer and product database using Microsoft Access. Through various queries, I was able to track purchases and outstanding balances, improving efficiency in managing store transactions.
    
- - [insert project 3 screenshot here]
+![Query 1](portfolio img/Q1 Port.png)
+![Query 2](portfolio img/Q2 Port.png)
+![Query 3](portfolio img/Q3 port.png)
+![Query 4](portfolio img/Q4 port.png)
+![Query 5](portfolio img/Q5 port.png)
+![Query 6](portfolio img/Q6 port.png)
+![Query 7](portfolio img/Q7 port.png)
+![Query 8](portfolio img/Q8 port.png)
+![Query 9](portfolio img/Q9 port.png)
+![Query 10](portfolio img/Q10 port.png)
+![Query 11](portfolio img/Q11 port.png)
+
 
 ##### -How did you come up with this project? What problem did you set out to solve, and why was it a problem that needed to be solved?
 I decided to use Microsoft Access 2016 to create a database that tracks customers and the products they purchased from my store. The main issue I aimed to solve was the difficulty of manually keeping track of how many customers I had and how much money they owed. This was a time-consuming task, and creating a digital system helped streamline the process and improve accuracy.
