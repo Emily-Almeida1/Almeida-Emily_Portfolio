@@ -19,9 +19,12 @@ Loyola University, MD
 
 #### Personality Test Application
  - The “Which Disney princess” personality test is a test that asks ten questions with three different alternatives seeking to collect the answers from the user and then calculate them based on a number-letter system and give the user a corresponding princess. 
+![Project 1 Image 1](/portfolio img/Personality T 1.png)
+![Project 1 Image 2](portfolio img/Personality T 2.png)
+![Project 1 Image 3](portfolio img/Personality Test 3.png)
+![Project 1 Image 4](portfolio img/Personality T 4.png)
+![Project 1 Image 5](portfolio img/Personality 5.png)
 
- - [insert project 1 screenshot here]
-   
 ##### -How did you come up with this project? What problem did you set out to solve, and why was it a problem that needed to be solved?
 
 I decided to develop a personality test application inspired by the childhood figures I grew up with: Disney Princesses. I selected three of my favorite princesses and created a series of questions based on their traits, such as their favorite colors, professions, hobbies, and core values.
